@@ -17,3 +17,8 @@ go install github.com/brackendawson/notfoundle@latest
 ```
 echo 'command_not_found_handler() { notfoundle "$1" }' >>~/.zshrc
 ```
+
+### fish shell
+```
+echo -e "function fish_command_not_found\n    notfoundle \$argv[1]\nend" >> ~/.config/fish/functions/default/not_found.fish
+```
