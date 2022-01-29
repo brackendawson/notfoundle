@@ -5,7 +5,7 @@ A command not found handler like wordle:
 Did you mean: ⬜🟨🟨🟨🟨🟩
 ```
 
-It's not derministic so don't try to solve them or you will lose your mind.
+It's not deterministic so don't try to solve them or you will lose your mind.
 
 ## Installation
 You need [Go](https://go.dev) and `$GOPATH/bin` (or `~/go/bin`) in your PATH.
