@@ -1,4 +1,4 @@
-# notfoundle
+# ![ ](whatever_your_browser_does_for_image_not_found.jpeg) notfoundle
 A command not found handler like wordle:
 ```
 % probet
