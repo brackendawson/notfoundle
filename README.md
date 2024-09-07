@@ -8,7 +8,7 @@ Did you mean: ⬜🟨🟨🟨🟨🟩
 It's not deterministic so don't try to solve them or you will lose your mind.
 
 ## Installation
-You need [Go](https://go.dev) and `$GOPATH/bin` (or `~/go/bin`) in your PATH.
+You need [Go](https://go.dev) and `~/go/bin` in your PATH.
 ```
 go install github.com/brackendawson/notfoundle@latest
 ```
